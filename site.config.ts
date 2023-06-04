@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Okami Notion Blog',
-  domain: 'okami.freejolitos.com',
-  author: 'Okami',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'Okami Notion Blog',
+  description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: '_systemctl',
-  github: 'marturojt',
-  linkedin: 'marturojt',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Okami Notion Blog',
-  domain: 'okami.freejolitos.com',
-  author: 'Okami',
+  name: 'Tech Potions Blog',
+  domain: 'blog.tech-potions.com',
+  author: 'Tech potions',
 
   // open graph metadata (optional)
   description: 'Okami Notion Blog',
 
   // social usernames (optional)
-  twitter: '_systemctl',
-  github: 'marturojt',
-  linkedin: 'marturojt',
+  // twitter: '_systemctl',
+  // github: 'marturojt',
+  // linkedin: 'marturojt',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
